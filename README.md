@@ -1,4 +1,4 @@
-# DECISION -- Born in Indonesia | Developed by a high-school student from Indonesia
+# DECISION - Born in Indonesia | Developed by a high-school student from Indonesia
 
 ### A low-res 3D game about decision-based outcomes in life.
 ### This is an offline game so no internet required.
